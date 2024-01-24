@@ -1,15 +1,8 @@
 # github-final-project
-Which command can a developer use to keep up-to-date with the upstream?
-
-1 point
-
-git revert
-
-
-git pull <upstream> and git fetch <upstream>
-
-
-git push
-
-
-git request pull
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
